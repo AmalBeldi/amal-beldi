@@ -1,7 +1,7 @@
 .profile-photo {
-  width: 150px;        /* ← change la valeur si besoin (120–180) */
+  width: 130px;          /* taille académique standard */
   height: auto;
-  border-radius: 50%;  /* photo ronde (optionnel, très pro) */
+  border-radius: 8px;    /* léger arrondi (plus pro que rond) */
   display: block;
-  margin: 20px auto;   /* centrée */
+  margin: 20px auto 10px auto;
 }

@@ -1,1 +1,7 @@
-body{font-family:Arial, sans-serif;}
+.profile-photo {
+  width: 150px;        /* ← change la valeur si besoin (120–180) */
+  height: auto;
+  border-radius: 50%;  /* photo ronde (optionnel, très pro) */
+  display: block;
+  margin: 20px auto;   /* centrée */
+}

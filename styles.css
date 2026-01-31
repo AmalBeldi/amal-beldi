@@ -5,3 +5,6 @@
   display: block;
   margin: 20px auto 10px auto;
 }
+.profile-photo {
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
